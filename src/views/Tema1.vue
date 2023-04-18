@@ -23,7 +23,7 @@
                     h4.mb-1 Para poder completar y profundizar en el estudio de los factores que influyen en la representatividad, se invita a hacer lectura consciente y atenta.
                     p.text-small Anexo1 _OtrosFactoresInfluyenEnRepresentatividad
                   .col.mb-3.mb-sm-0
-                    a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                    a.boton.color-acento-botones(:href="obtenerLink('downloads/anexo1.pdf')" target="_blank" type="application/pdf")
                       span Descargar 
                       i.fas.fa-file-download
       
