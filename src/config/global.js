@@ -1,19 +1,21 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
+    componenteFormativo:
+      'Monitoreo de los vertimientos según normatividad ambiental',
+    descripcionCurso:
+      'Este componente formativo aborda aspectos generales y claves del manejo de vertimientos, según lineamientos técnicos y legales a nivel nacional. Así mismo, afianza al aprendiz en lo relacionado con necesidades de los sectores económicos, el desarrollo tecnológico y la innovación, monitoreo y seguimiento al tratamiento de las aguas residuales, según el control de variables de los sistemas de tratamiento. ',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
+    // imagenesDecorativasBanner: [
+    //   {
+    //     clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+    //     imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+    //   },
+    //   {
+    //     clases: ['banner-principal-decorativo-2'],
+    //     imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+    //   },
+    // ],
   },
   menuPrincipal: {
     menu: [
