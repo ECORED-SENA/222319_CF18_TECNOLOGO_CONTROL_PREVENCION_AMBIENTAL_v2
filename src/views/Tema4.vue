@@ -21,16 +21,16 @@
       div(titulo="¿Quién debe pagar? ")
         p Todas las personas, industrias y empresas de servicios públicos que utilizan el Recurso Hídrico como fuente receptora de vertimiento están en la obligación de pagar tasa retributiva. 
       div(titulo="¿Quién cobra y recauda la Tasa retributiva? ")
-        p • Las Corporaciones Autónomas Regionales 
+        p • Las Corporaciones Autónomas Regionales. 
           br
           br
-          |• Las Corporaciones para el Desarrollo Sostenible 
+          |• Las Corporaciones para el Desarrollo Sostenible. 
           br
           br
-          |• Los grandes centros urbanos 
+          |• Los grandes centros urbanos. 
           br
           br
-          |• Los establecimientos públicos ambientales 
+          |• Los establecimientos públicos ambientales. 
           br
           br
           |• Parques nacionales naturales.  
@@ -38,6 +38,8 @@
   
       div(titulo=" ¿Cuál es la destinación de los recursos? ")
         p Los recursos provenientes del recaudo de la tasa retributiva por vertimientos al recurso hídrico, se destinarán principalmente a proyectos de inversión en descontaminación hídrica y en monitoreo de la calidad del agua. 
+      div(titulo="Proyectos de inversión")
+        p En los proyectos de inversión se contempla: mejoramiento, monitoreo y evaluación de la calidad del recurso hídrico; elaboración y ejecución de Planes de Ordenamiento del Recurso Hídrico e inversiones en sistemas de tratamiento (incluido interceptores y emisarios finales). Hasta el 10% del recaudo se podrá utilizar el en la cofinanciación de estudios y diseños asociados a estos sistemas (MADS, 2020).
       div(titulo="¿Y cuál norma rige? ")
         p El decreto 2667 de 2012 reglamenta la tasa retributiva por la utilización directa e indirecta del agua como receptor de los vertimientos puntuales, y se toman otras determinaciones. 
 

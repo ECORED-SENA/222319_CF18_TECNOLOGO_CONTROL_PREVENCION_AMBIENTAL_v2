@@ -171,7 +171,7 @@ export default {
         'Alcaldía mayor de Bogotá (2014). Registro de vertimientos no domésticos.',
       tipo: 'Lista de chequeo ',
       link:
-        'https://docs.google.com/spreadsheets/d/1eaavKQaMpgMaTao2IjEve2A9JjkiMGiJ/edit#gid=299790998  ',
+        'https://docs.google.com/spreadsheets/d/1eaavKQaMpgMaTao2IjEve2A9JjkiMGiJ/edit#gid=299790998',
     },
     {
       tema: 'Registro y permiso de vertimientos',
@@ -179,43 +179,44 @@ export default {
         'Alcaldía Mayor de Bogotá (2014). Lista de chequeo para permiso de vertimientos generados al suelo o cuerpos de agua.',
       tipo: 'Lista de chequeo ',
       link:
-        'https://docs.google.com/spreadsheets/d/1q97UKpuKoleoPMdfJeEQXe1ERVQVSfgM/edit#gid=91130174 ',
+        'https://docs.google.com/spreadsheets/d/1q97UKpuKoleoPMdfJeEQXe1ERVQVSfgM/edit#gid=91130174',
     },
     {
       tema: 'Registro y permiso de vertimientos',
       referencia:
-        'Alcaldía Mayor de Bogotá. (2014). Lista de chequeo para permiso de vertimientos alcantarillado.',
+        'Alcaldía Mayor de Bogotá. (2014). <em>Lista de chequeo para permiso de vertimientos alcantarillado.</em>',
       tipo: 'Lista de chequeo  ',
       link:
-        'https://docs.google.com/spreadsheets/d/1o8RMM-KMek7kiwNAFkyXC7g_iXS-qa50/edit#gid=348122990 ',
+        'https://docs.google.com/spreadsheets/d/1o8RMM-KMek7kiwNAFkyXC7g_iXS-qa50/edit#gid=348122990',
     },
     {
       tema: 'Registro y permiso de vertimientos',
-      referencia: 'Alcaldía Mayor de Bogotá. (2014). Permiso de vertimientos.',
+      referencia:
+        'Alcaldía Mayor de Bogotá. (2014). <em>Permiso de vertimientos.</em>',
       tipo: 'Formato ',
       link:
-        'https://docs.google.com/document/d/1UHGBcdVNZHT2FITJQhQF2hcjjiTD7QnP/edit ',
-    },
-    {
-      tema: 'Construcción de un sistema de tratamiento de agua residual',
-      referencia: 'Google SketchUp. (s.f).  Paso a paso con Google SketchUp.',
-      tipo: 'Manual ',
-      link:
-        'https://drive.google.com/drive/folders/1IkFSFs2v2Jxwk3YehP4AXJG4f5CLAa4i  ',
-    },
-    {
-      tema: 'Construcción de un sistema de tratamiento de agua residual',
-      referencia: 'Google SketchUp.  (s.f). Manual de SketchUp.',
-      tipo: 'Manual  ',
-      link:
-        'https://drive.google.com/drive/folders/1BbDe3suOPp4GHyIx3dEH2qtK27ahOZio ',
+        'https://docs.google.com/document/d/1UHGBcdVNZHT2FITJQhQF2hcjjiTD7QnP/edit',
     },
     {
       tema: 'Construcción de un sistema de tratamiento de agua residual',
       referencia:
-        'Sketchup. (2016). Getting Started with SketchUp [Video]. Youtube.',
+        'Google SketchUp. (s.f).  <em>Paso a paso con Google SketchUp.</em>',
+      tipo: 'Manual ',
+      link:
+        'https://drive.google.com/drive/folders/1IkFSFs2v2Jxwk3YehP4AXJG4f5CLAa4i',
+    },
+    {
+      tema: 'Construcción de un sistema de tratamiento de agua residual',
+      referencia: 'Google SketchUp.  (s.f). <em>Manual de SketchUp.</em>',
+      tipo: 'Manual  ',
+      link:
+        'https://drive.google.com/drive/folders/1BbDe3suOPp4GHyIx3dEH2qtK27ahOZio',
+    },
+    {
+      tema: 'Construcción de un sistema de tratamiento de agua residual',
+      referencia: 'Sketchup. (2016). <em>Getting Started with SketchUp</em>',
       tipo: 'Video ',
-      link: 'https://www.youtube.com/watch?v=pv7TrGnZ17w ',
+      link: 'https://www.youtube.com/watch?v=pv7TrGnZ17w',
     },
   ],
   glosario: [
@@ -287,7 +288,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Minas y Energía (s.f.). Guía minero ambiental de explotación.  Seguimiento, Monitoreo y Evaluación. ',
+        'Ministerio de Minas y Energía (s.f.). <em>Guía minero ambiental de explotación.  Seguimiento, Monitoreo y Evaluación.</em> ',
       link:
         'http://repositorio.ucm.edu.co:8080/jspui/bitstream/handle/10839/1305/Laura%20Lizeth%20Gomez%20Molina.pdf?sequence=1&isAllowed=y',
     },
@@ -309,7 +310,7 @@ export default {
     },
     {
       referencia:
-        'Laura Lizeth Gómez Molina - Angela María Merchán Bermúdez (2016) Caracterización fisicoquímica de los lodos provenientes de una planta de tratamiento de agua residual industrial de una empresa de café del departamento de Caldas. Pag 10. ',
+        'Laura Lizeth Gómez Molina - Angela María Merchán Bermúdez (2016) <em>Caracterización fisicoquímica de los lodos provenientes de una planta de tratamiento de agua residual industrial de una empresa de café del departamento de Caldas.</em> Pag 10. ',
       link:
         'http://repositorio.ucm.edu.co:8080/jspui/bitstream/handle/10839/1305/Laura%20Lizeth%20Gomez%20Molina.pdf?sequence=1&isAllowed=y   ',
     },
@@ -320,22 +321,23 @@ export default {
     },
     {
       referencia:
-        'Ministro del Medio Ambiente (2002). Relaciones esp - autoridad ambiental para control de vertimientos industriales.',
+        'Ministro del Medio Ambiente (2002). <em></em>Relaciones esp - autoridad ambiental para control de vertimientos industriales.',
       link: '',
     },
     {
-      referencia: 'Normas ISO (s.f.). Implantando la Norma ISO 27001.',
+      referencia:
+        'Normas ISO (s.f.). <em>ZImplantando la Norma ISO 27001.</em>',
       link: 'https://www.normas-iso.com/iso-27001/',
     },
     {
       referencia:
-        'Red Internacional de Seguridad y Salud Ocupacional. (2008). Guía práctica para la Gestión Ambiental Empresarial. RIDSSO.',
+        'Red Internacional de Seguridad y Salud Ocupacional. (2008). <em>Guía práctica para la Gestión Ambiental Empresarial.</em> RIDSSO.',
       link:
         'http://www.ridsso.com/documentos/muro/207_1499511211_5960b9ab82262.pdf',
     },
     {
       referencia:
-        'Secretaría Distrital Del Ambiente. (2015). Solicitud de registro de vertimientos en el Distrito Capital. SDA.',
+        'Secretaría Distrital Del Ambiente. (2015). <em>Solicitud de registro de vertimientos en el Distrito Capital.</em> SDA.',
       link: 'http://ambientebogota.gov.co/vertimientos',
     },
   ],
@@ -349,9 +351,10 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: '',
-          cargo: '',
-          centro: '',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable del equipo  ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
         },
       ],
     },
@@ -359,9 +362,41 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Diana Carolina Triana Guarnizo',
+          cargo: 'Instructor',
+          centro: 'Centro de Gestión Industrial - Distrito Capital',
+        },
+        {
+          nombre: 'Juan Carlos Cárdenas Sánchez',
+          cargo: 'Instructor',
+          centro: 'Centro de Gestión Industrial - Distrito Capital',
+        },
+        {
+          nombre: 'Gloria Esperanza Ortiz Russi',
+          cargo: 'Evaluador y diseñador instruccional',
+          centro: 'Centro de diseño y metrología',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Evaluador Instruccional',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Diseñador y evaluador instruccional',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Fabián Leonardo Correa Díaz',
+          cargo: 'Diseñador y evaluador instruccional',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Metodóloga',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -376,12 +411,32 @@ export default {
         {
           nombre: 'Camilo Andres Bolaño',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Zuleidy María Ruíz Torres ',
+          cargo: 'Validación audiovisual ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey ',
+          cargo: 'Locución ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres ',
+          cargo: 'Ilustración ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Mary Jeans Palacio Camacho ',
+          cargo: 'Producción audiovisual ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -389,14 +444,16 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          nombre: 'Luis Gabriel Urueta ',
+          cargo: 'Validación y vinculación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Daniel Mutis',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },

@@ -31,57 +31,57 @@
     p.mb-5(data-aos='fade-right') Para un mayor entendimiento de la Norma ISO 27001, se debe tener en cuenta los siguientes conceptos: 
     .bg-1.p-5.mb-5
       ul.lista-ul--color
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Activo:] se refiere a cualquier información o sistema relacionado con el tratamiento de la misma que tenga valor para la organización. 
+          p.mb-0 #[b Activo:] se refiere a cualquier información o sistema relacionado con el tratamiento de la misma que tenga valor para la organización. 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Autenticidad:] es la garantía de la identidad del usuario que origina una información. Permite conocer con certeza quién envía o genera una información específica 
+          p.mb-0 #[b Autenticidad:] es la garantía de la identidad del usuario que origina una información. Permite conocer con certeza quién envía o genera una información específica 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Trazabilidad:] es la garantía de que en todo momento se podrá determinar quién hizo qué y en qué momento lo hizo 
+          p.mb-0 #[b Trazabilidad:] es la garantía de que en todo momento se podrá determinar quién hizo qué y en qué momento lo hizo 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Análisis de riesgos:] es un proceso que permite comprender la naturaleza del riesgo, determinando su nivel, que proporciona las bases parala evaluación del riesgo y para tomar las decisiones relativas a su tratamiento. 
+          p.mb-0 #[b Análisis de riesgos:] es un proceso que permite comprender la naturaleza del riesgo, determinando su nivel, que proporciona las bases para la evaluación del riesgo y para tomar las decisiones relativas a su tratamiento. 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Gestión de riesgos:] es el proceso por el cual se evalúan los riesgos y se seleccionan y aplican los controles necesarios para mantener el nivel de riesgos a los niveles aceptados por la Dirección. 
+          p.mb-0 #[b Gestión de riesgos:] es el proceso por el cual se evalúan los riesgos y se seleccionan y aplican los controles necesarios para mantener el nivel de riesgos a los niveles aceptados por la Dirección. 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | Implantación de un sistema de gestión de seguridad de la información según ISO 27001. (2005). http://www.digitaliapublishing.com.bdigital.sena.edu.co/visor/37729 
+          p.mb-0 Implantación de un sistema de gestión de seguridad de la información según ISO 27001. (2005). http://www.digitaliapublishing.com.bdigital.sena.edu.co/visor/37729 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Análisis cualitativo:] los métodos de análisis cualitativo de riesgo usan categorizaciones descriptivas para describir los impactos o la probabilidad. Son los más sencillos y los que más se usan. Generalmente utilizan listas de verificación de clasificaciones subjetivas del riesgo, como muy alto, alto, medio, bajo y muy bajo. 
+          p.mb-0 #[b Análisis cualitativo:] los métodos de análisis cualitativo de riesgo usan categorizaciones descriptivas para describir los impactos o la probabilidad. Son los más sencillos y los que más se usan. Generalmente utilizan listas de verificación de clasificaciones subjetivas del riesgo, como muy alto, alto, medio, bajo y muy bajo. 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Análisis cuantitativo:]  los métodos de análisis cuantitativo utilizan valores numéricos para describir la probabilidad y los impactos de los riesgos, usando datos provenientes de varios tipos de fuentes, como registros históricos, experiencias pasadas, teorías estadísticas, simulaciones y pruebas. 
+          p.mb-0 #[b Análisis cuantitativo:]  los métodos de análisis cuantitativo utilizan valores numéricos para describir la probabilidad y los impactos de los riesgos, usando datos provenientes de varios tipos de fuentes, como registros históricos, experiencias pasadas, teorías estadísticas, simulaciones y pruebas. 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Análisis semicuantitativo o mixto:] en el análisis semicuantitativo, las clasificaciones descriptivas están asociadas con una escala numérica. Estos métodos se suelen emplear cuando no es posible utilizar un método cuantitativo o cuando se necesita para reducir la subjetividad de los métodos cualitativos. 
+          p.mb-0 #[b Análisis semicuantitativo o mixto:] en el análisis semicuantitativo, las clasificaciones descriptivas están asociadas con una escala numérica. Estos métodos se suelen emplear cuando no es posible utilizar un método cuantitativo o cuando se necesita para reducir la subjetividad de los métodos cualitativos. 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Amenaza:] cualquier circunstancia o evento que pueda explotar, intencionadamente o no, una vulnerabilidad específica de un sistema de información y comunicaciones, resultando en una pérdida de confidencialidad, integridad, disponibilidad, autenticidad o trazabilidad de la información manejada o de la integridad o disponibilidad del propio sistema. 
+          p.mb-0 #[b Amenaza:] cualquier circunstancia o evento que pueda explotar, intencionadamente o no, una vulnerabilidad específica de un sistema de información y comunicaciones, resultando en una pérdida de confidencialidad, integridad, disponibilidad, autenticidad o trazabilidad de la información manejada o de la integridad o disponibilidad del propio sistema. 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Vulnerabilidad:] cualquier debilidad o falta de control que aumente la probabilidad de que se materialice una de las amenazas a las que están expuestos los activos o los elementos del sistema de información y comunicaciones. 
+          p.mb-0 #[b Vulnerabilidad:] cualquier debilidad o falta de control que aumente la probabilidad de que se materialice una de las amenazas a las que están expuestos los activos o los elementos del sistema de información y comunicaciones. 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Impacto:] es la consecuencia que tiene la materialización de una amenaza sobre un activo, sobre un sistema de información y comunicaciones o sobre una organización. 
+          p.mb-0 #[b Impacto:] es la consecuencia que tiene la materialización de una amenaza sobre un activo, sobre un sistema de información y comunicaciones o sobre una organización. 
 
-        li
+        li.d-flex
           i.fas.fa-check
-          | #[b Riesgo:] es la estimación del grado de exposición a que una amenazase materialice sobre uno o más activos causando daños o perjuicios a la organización. 
+          p.mb-0 #[b Riesgo:] es la estimación del grado de exposición a que una amenazase materialice sobre uno o más activos causando daños o perjuicios a la organización. 
     p.mb-5(data-aos='fade-right') A continuación, se presentan las fases del Sistema de Gestión de la Seguridad de la Información, propuesto en la Norma ISO 27001: 
     TabsA.color-acento-botones.mb-5
       .tarjeta.color-acento-contenido.p-4(titulo="Activos de información y responsables ")
@@ -95,7 +95,7 @@
           .col-1: img(src='@/assets/curso/temas/tema8/5.svg', alt='')
           .col-11
             h4 Vulnerabilidades de los activos
-            p Vulnerabilidades de los activos
+            p Identificar las vulnerabilidades de cada activo: aquellas debilidades propias del activo que lo hacen susceptible de sufrir ataques o daños.
       .tarjeta.color-acento-contenido.p-4(titulo=" Amenazas ")
         .row.justify-content-center
           .col-1: img(src='@/assets/curso/temas/tema8/6.svg', alt='')

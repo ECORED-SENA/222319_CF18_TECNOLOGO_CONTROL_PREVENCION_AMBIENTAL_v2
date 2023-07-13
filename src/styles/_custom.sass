@@ -33,12 +33,19 @@
   background-repeat: no-repeat
   background-position: center
   background-size: cover
-  .slyder-a__btn--sigt, .slyder-a__btn--atrss
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
     background-color: $color-acento-botones !important
     opacity: 1
+    @media (max-width: $bp-max-lg)
+      width: 20px
+      height: 20px
+      background-size: 10px 10px
   .slyder-a__bullets__item
     background-color: $color-acento-contenido
     border: 0
+    @media (max-width: $bp-max-lg)
+      transform: scale(.5)
+      margin: 0 1px
 .acordion__activo
   background-color: #e2eacb
 .acordion-icon
