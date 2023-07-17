@@ -171,7 +171,7 @@ export default {
         'Alcaldía mayor de Bogotá (2014). Registro de vertimientos no domésticos.',
       tipo: 'Lista de chequeo ',
       link:
-        'https://docs.google.com/spreadsheets/d/1eaavKQaMpgMaTao2IjEve2A9JjkiMGiJ/edit#gid=299790998',
+        'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/permiso-de-vertimientos',
     },
     {
       tema: 'Registro y permiso de vertimientos',
@@ -179,7 +179,7 @@ export default {
         'Alcaldía Mayor de Bogotá (2014). Lista de chequeo para permiso de vertimientos generados al suelo o cuerpos de agua.',
       tipo: 'Lista de chequeo ',
       link:
-        'https://docs.google.com/spreadsheets/d/1q97UKpuKoleoPMdfJeEQXe1ERVQVSfgM/edit#gid=91130174',
+        'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/permiso-de-vertimientos',
     },
     {
       tema: 'Registro y permiso de vertimientos',
@@ -187,7 +187,7 @@ export default {
         'Alcaldía Mayor de Bogotá. (2014). <em>Lista de chequeo para permiso de vertimientos alcantarillado.</em>',
       tipo: 'Lista de chequeo  ',
       link:
-        'https://docs.google.com/spreadsheets/d/1o8RMM-KMek7kiwNAFkyXC7g_iXS-qa50/edit#gid=348122990',
+        'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/permiso-de-vertimientos',
     },
     {
       tema: 'Registro y permiso de vertimientos',
@@ -195,22 +195,21 @@ export default {
         'Alcaldía Mayor de Bogotá. (2014). <em>Permiso de vertimientos.</em>',
       tipo: 'Formato ',
       link:
-        'https://docs.google.com/document/d/1UHGBcdVNZHT2FITJQhQF2hcjjiTD7QnP/edit',
+        'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/permiso-de-vertimientos',
     },
     {
       tema: 'Construcción de un sistema de tratamiento de agua residual',
       referencia:
         'Google SketchUp. (s.f).  <em>Paso a paso con Google SketchUp.</em>',
       tipo: 'Manual ',
-      link:
-        'https://drive.google.com/drive/folders/1IkFSFs2v2Jxwk3YehP4AXJG4f5CLAa4i',
+      link: 'https://help.sketchup.com/es/sketchup/getting-started-sketchup',
     },
     {
       tema: 'Construcción de un sistema de tratamiento de agua residual',
       referencia: 'Google SketchUp.  (s.f). <em>Manual de SketchUp.</em>',
       tipo: 'Manual  ',
       link:
-        'https://drive.google.com/drive/folders/1BbDe3suOPp4GHyIx3dEH2qtK27ahOZio',
+        'http://www.tallertecno.com/sketchup/manual-rapido-google-sketchup-2014pro.pdf',
     },
     {
       tema: 'Construcción de un sistema de tratamiento de agua residual',
@@ -290,6 +289,12 @@ export default {
       referencia:
         'Ministerio de Minas y Energía (s.f.). <em>Guía minero ambiental de explotación.  Seguimiento, Monitoreo y Evaluación.</em> ',
       link:
+        'https://www.anm.gov.co/sites/default/files/normativas/guia_mineroambiental_de_exploracion.pdf',
+    },
+    {
+      referencia:
+        'Gómez, L. & Merchán, A. (2016). <em>Caracterización fisicoquímica de los lodos provenientes de una planta de tratamiento de agua residual industrial de una empresa de café del departamento de Caldas</em> [Tesis doctoral, Universidad Católica de Manizales, Manizales]. Repositorio Institucional UCM. ',
+      link:
         'http://repositorio.ucm.edu.co:8080/jspui/bitstream/handle/10839/1305/Laura%20Lizeth%20Gomez%20Molina.pdf?sequence=1&isAllowed=y',
     },
     {
@@ -311,8 +316,7 @@ export default {
     {
       referencia:
         'Laura Lizeth Gómez Molina - Angela María Merchán Bermúdez (2016) <em>Caracterización fisicoquímica de los lodos provenientes de una planta de tratamiento de agua residual industrial de una empresa de café del departamento de Caldas.</em> Pag 10. ',
-      link:
-        'http://repositorio.ucm.edu.co:8080/jspui/bitstream/handle/10839/1305/Laura%20Lizeth%20Gomez%20Molina.pdf?sequence=1&isAllowed=y   ',
+      link: 'https://repositorio.ucm.edu.co/handle/10839/1305',
     },
     {
       referencia:
@@ -333,12 +337,13 @@ export default {
       referencia:
         'Red Internacional de Seguridad y Salud Ocupacional. (2008). <em>Guía práctica para la Gestión Ambiental Empresarial.</em> RIDSSO.',
       link:
-        'http://www.ridsso.com/documentos/muro/207_1499511211_5960b9ab82262.pdf',
+        'https://docplayer.es/11257606-Guia-practica-para-la-gestion-ambiental-empresarial-2008-guia-practica-para-la-gestion-ambiental-empresarial.html',
     },
     {
       referencia:
         'Secretaría Distrital Del Ambiente. (2015). <em>Solicitud de registro de vertimientos en el Distrito Capital.</em> SDA.',
-      link: 'http://ambientebogota.gov.co/vertimientos',
+      link:
+        'https://ambientebogota.gov.co/search?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_returnToFullPageURL=https%3A%2F%2Fambientebogota.gov.co%2Fsearch%3Fp_auth%3DDTQ7pvHl%26p_p_id%3D3%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_state_rcv%3D1&_101_assetEntryId=306650&_101_type=content&_101_urlTitle=vertimientos&redirect=https%3A%2F%2Fambientebogota.gov.co%2Fsearch%3Fp_p_id%3D3%26p_p_lifecycle%3D0%26p_p_state%3Dmaximized%26p_p_mode%3Dview%26_3_advancedSearch%3Dfalse%26_3_keywords%3D%26_3_primarySearch%3Dcom.liferay.portlet.blogs.util.BlogsOpenSearchImpl%26_3_delta%3D20%26_3_resetCur%3Dfalse%26_3_cur%3D22%26_3_struts_action%3D%252Fsearch%252Fsearch%26_3_format%3D%26_3_assetTagNames%3Didipron%26_3_andOperator%3Dtrue&inheritRedirect=true',
     },
   ],
   creditos: [
