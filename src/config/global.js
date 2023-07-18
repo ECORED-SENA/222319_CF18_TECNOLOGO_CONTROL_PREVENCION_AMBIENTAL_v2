@@ -450,13 +450,13 @@ export default {
       autores: [
         {
           nombre: 'Luis Gabriel Urueta ',
-          cargo: 'Validación y vinculación',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Daniel Mutis',
-          cargo: 'Validación de contenidos accesibles',
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
