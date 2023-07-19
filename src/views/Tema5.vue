@@ -50,7 +50,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Modelos en 3D 
-            p Para crear un modelo en 3D, sólo se debe dibujar hacia arriba o hacia abajo siguiendo la dirección azul (en paralelo a los ejes azules). El sistema de coordenadas (ejes) se describe más adelante en este apartado. En la imagen siguiente se muestra la primera línea creada en el espacio 3D. 
+            p Para crear un modelo en 3D, sólo se debe dibujar hacia arriba o hacia abajo siguiendo la dirección azul (en paralelo a los ejes azules). En la imagen siguiente se muestra la primera línea creada en el espacio 3D. 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema5/3.png', alt='')

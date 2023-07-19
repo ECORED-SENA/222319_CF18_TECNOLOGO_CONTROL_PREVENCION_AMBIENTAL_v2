@@ -168,24 +168,8 @@ export default {
     {
       tema: 'Registro y permiso de vertimientos',
       referencia:
-        'Alcaldía mayor de Bogotá (2014). Registro de vertimientos no domésticos.',
-      tipo: 'Lista de chequeo ',
-      link:
-        'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/permiso-de-vertimientos',
-    },
-    {
-      tema: 'Registro y permiso de vertimientos',
-      referencia:
         'Alcaldía Mayor de Bogotá (2014). Lista de chequeo para permiso de vertimientos generados al suelo o cuerpos de agua.',
       tipo: 'Lista de chequeo ',
-      link:
-        'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/permiso-de-vertimientos',
-    },
-    {
-      tema: 'Registro y permiso de vertimientos',
-      referencia:
-        'Alcaldía Mayor de Bogotá. (2014). <em>Lista de chequeo para permiso de vertimientos alcantarillado.</em>',
-      tipo: 'Lista de chequeo  ',
       link:
         'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/permiso-de-vertimientos',
     },
@@ -220,49 +204,49 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Aguas Residuales Domésticas, (ARD) ',
+      termino: 'Aguas Residuales Domésticas, (ARD)',
       significado:
         'Son las procedentes de los hogares, así como las de las instalaciones en las cuales se desarrollan actividades industriales, comerciales o de servicios y que correspondan a: descargas de los retretes y servicios sanitarios. Descargas de los sistemas de aseo personal (duchas y lavamanos), de las áreas de cocinas y cocinetas, de las pocetas de lavado de elementos de aseo y lavado de paredes y pisos y del lavado de ropa (No se incluyen las de los servicios de lavandería industrial). Ministerio de Ambiente y Desarrollo Sostenible. (marzo 17 de 2015) Resolución No 0631. Pág. 2. ',
     },
     {
-      termino: 'Aguas Residuales no Domésticas, (ARnD) ',
+      termino: 'Aguas Residuales no Domésticas, (ARnD)',
       significado:
         'Son las procedentes de las actividades industriales, comerciales o de servicios distintas a las que constituyen aguas residuales domésticas, (ARD) (Ministerio de Ambiente y Desarrollo Sostenible,2015).  ',
     },
     {
-      termino: 'Carga contaminante ',
+      termino: 'Carga contaminante',
       significado:
         'Es el producto de la concentración másica promedio de una sustancia por el caudal volumétrico promedio del líquido que la contiene determinado en el mismo sitio; en un vertimiento se expresa en kilogramos por día (Kg/d) (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011). ',
     },
     {
-      termino: 'Caudal ambiental ',
+      termino: 'Caudal ambiental',
       significado:
         'Volumen de agua necesario en términos de calidad, cantidad, duración y estacionalidad para el sostenimiento de los ecosistemas acuáticos y para el desarrollo de las actividades socioeconómicas de los usuarios aguas abajo de la fuente de la cual dependen tales ecosistemas (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011). ',
     },
     {
-      termino: 'Límites permisibles de vertimiento ',
+      termino: 'Límites permisibles de vertimiento',
       significado:
-        'Es el contenido permitido de una sustancia, elemento o parámetro contaminante, en forma individual, mezclado o en combinación, o sus productos de metabolismo establecidos en los permisos de vertimiento y/o en los Planes de Saneamiento y Manejo de Vertimientos - PSMV. (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011)..  ',
+        'Es el contenido permitido de una sustancia, elemento o parámetro contaminante, en forma individual, mezclado o en combinación, o sus productos de metabolismo establecidos en los permisos de vertimiento y/o en los Planes de Saneamiento y Manejo de Vertimientos - PSMV. (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011).',
     },
     {
-      termino: 'Tarifa de la tasa retributiva ',
+      termino: 'Tarifa de la tasa retributiva',
       significado:
-        'Es el valor que se cobra por unidad de carga contaminante vertida al recurso hídrico (Ministerio de ambiente y desarrollo sostenible, 2012).  ',
+        'Es el valor que se cobra por unidad de carga contaminante vertida al recurso hídrico (Ministerio de ambiente y desarrollo sostenible, 2012).',
     },
     {
-      termino: 'Vertimiento ',
+      termino: 'Vertimiento',
       significado:
-        'Descarga final a un cuerpo de agua, a un alcantarillado o al suelo, de elementos, sustancias o compuestos contenidos en un medio líquido. (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011). ',
+        'Descarga final a un cuerpo de agua, a un alcantarillado o al suelo, de elementos, sustancias o compuestos contenidos en un medio líquido. (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011).',
     },
     {
-      termino: 'Vertimiento puntual ',
+      termino: 'Vertimiento puntual',
       significado:
-        'El que se realiza a partir de un medio de conducción, del cual se puede precisar el punto exacto de descarga al cuerpo de agua, al alcantarillado o al suelo. (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011). ',
+        'El que se realiza a partir de un medio de conducción, del cual se puede precisar el punto exacto de descarga al cuerpo de agua, al alcantarillado o al suelo. (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011).',
     },
     {
-      termino: 'Vertimiento no puntual ',
+      termino: 'Vertimiento no puntual',
       significado:
-        'Aquel en el cual no se puede precisar el punto exacto de descarga al cuerpo de agua o al suelo, tal es el caso de vertimientos provenientes de escorrentía, aplicación de agroquímicos u otros similares (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011) Decreto No 3930. Pág. 3 a 6. ',
+        'Aquel en el cual no se puede precisar el punto exacto de descarga al cuerpo de agua o al suelo, tal es el caso de vertimientos provenientes de escorrentía, aplicación de agroquímicos u otros similares (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011) Decreto No 3930. Pág. 3 a 6.',
     },
   ],
   referencias: [
@@ -277,10 +261,7 @@ export default {
       link:
         'https://www.cornare.gov.co/Tramites-Ambientales/TR/ter_ref_manejo_vertimientos.pdf',
     },
-    {
-      referencia: 'Google inc. (2007). Herramientas de SketchUp.',
-      link: 'https://tutorialesenpdf.com/sketchup/',
-    },
+
     {
       referencia: 'Google inc. (2007). Diseño de SketchUp.',
       link: 'https://tutorialesenpdf.com/sketchup/',
@@ -294,8 +275,7 @@ export default {
     {
       referencia:
         'Gómez, L. & Merchán, A. (2016). <em>Caracterización fisicoquímica de los lodos provenientes de una planta de tratamiento de agua residual industrial de una empresa de café del departamento de Caldas</em> [Tesis doctoral, Universidad Católica de Manizales, Manizales]. Repositorio Institucional UCM. ',
-      link:
-        'http://repositorio.ucm.edu.co:8080/jspui/bitstream/handle/10839/1305/Laura%20Lizeth%20Gomez%20Molina.pdf?sequence=1&isAllowed=y',
+      link: '',
     },
     {
       referencia:
@@ -411,10 +391,11 @@ export default {
         {
           nombre: 'Juan Daniel Polanco',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Camilo Andres Bolaño',
+          nombre: 'Camilo Andres Bolaño Rey',
           cargo: 'Desarrollador Fullstack',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',

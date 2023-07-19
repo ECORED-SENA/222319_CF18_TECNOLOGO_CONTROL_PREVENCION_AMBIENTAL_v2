@@ -119,7 +119,7 @@
           .col-1: img(src='@/assets/curso/temas/tema8/9.svg', alt='')
           .col-11
             h4 Cálculo del riesgo
-            p Este se realiza a partir de la probabilidad de ocurrencia del riesgo y elimpacto que este tiene sobre la organización (Riesgo = impacto x probabilidad de la amenaza).Con este procedimiento determinamos los riesgos que deben ser controlados con prioridad.
+            p Este se realiza a partir de la probabilidad de ocurrencia del riesgo y el impacto que este tiene sobre la organización (Riesgo = impacto x probabilidad de la amenaza). Con este procedimiento determinamos los riesgos que deben ser controlados con prioridad.
       .tarjeta.color-acento-contenido.p-4(titulo=" Plan de tratamiento de riesgo ")
         .row.justify-content-center
           .col-1: img(src='@/assets/curso/temas/tema8/10.svg', alt='')
