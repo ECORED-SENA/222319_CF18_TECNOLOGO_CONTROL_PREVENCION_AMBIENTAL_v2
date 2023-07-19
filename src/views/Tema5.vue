@@ -14,6 +14,27 @@
       SlyderA(tipo='b')
         .row
           .col-md-6.mb-4.mb-md-0
+            h4 Importe de archivos y sistema de coordenadas 
+            p Los archivos de SketchUp se pueden importar en distintas aplicaciones de CAD para procesarlos allí y también se pueden importar en SketchUp archivos de CAD para crear modelos 3D con gran rapidez. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema5/7.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4 Coordenadas
+            p SketchUP utiliza un sistema de coordenadas 3D en el que los puntos se identifican en el espacio mediante su posición en tres ejes de dibujo: valores X, Y y Z positivos o negativos (por encima o por debajo del suelo). En SketchUp, el valor X positivo o negativo se representa mediante líneas rojas continuas o punteadas, respectivamente; Y positivo o negativo se representa respectivamente mediante líneas de eje verdes continuas o punteadas; y Z positivo o negativo (por encima o por debajo del suelo) se representa mediante líneas azules continuas o punteadas. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema5/8.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4 Plano de suelo 
+            p El plano en el que descansan las líneas de eje rojas y verdes se denomina plano de suelo. Por último, el término origen se emplea para definir el lugar donde se inician todas las líneas de eje. La imagen siguiente muestra los ejes de dibujo en SketchUp (las líneas se muestran más gruesas de lo normal para facilitar la lectura de los ejes). El círculo negro representa el origen.  
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema5/9.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
             h4 Creación
             p Los modelos de SketchUp se crean básicamente uniendo líneas para formar aristas. Las caras se crean automáticamente cuando tres o más líneas o aristas están en el mismo plano (un espacio plano infinito 2D) o son coplanarias y forman un bucle cerrado. Las aristas y las caras se combinan de este modo para crear modelos 3D. En la imagen siguiente se muestran tres líneas coplanarias no conectadas. Estas líneas se han dibujado con la herramienta "Línea" (la herramienta con forma de lápiz).  
           .col-md-6
@@ -54,27 +75,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema5/6.png', alt='')
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Importe de archivos y sistema de coordenadas 
-            p Los archivos de SketchUp se pueden importar en distintas aplicaciones de CAD para procesarlos allí y también se pueden importar en SketchUp archivos de CAD para crear modelos 3D con gran rapidez. 
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema5/7.png', alt='')
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Coordenadas
-            p SketchUP utiliza un sistema de coordenadas 3D en el que los puntos se identifican en el espacio mediante su posición en tres ejes de dibujo: valores X, Y y Z positivos o negativos (por encima o por debajo del suelo). En SketchUp, el valor X positivo o negativo se representa mediante líneas rojas continuas o punteadas, respectivamente; Y positivo o negativo se representa respectivamente mediante líneas de eje verdes continuas o punteadas; y Z positivo o negativo (por encima o por debajo del suelo) se representa mediante líneas azules continuas o punteadas. 
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema5/8.png', alt='')
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Plano de suelo 
-            p El plano en el que descansan las líneas de eje rojas y verdes se denomina plano de suelo. Por último, el término origen se emplea para definir el lugar donde se inician todas las líneas de eje. La imagen siguiente muestra los ejes de dibujo en SketchUp (las líneas se muestran más gruesas de lo normal para facilitar la lectura de los ejes). El círculo negro representa el origen.  
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema5/9.png', alt='')
+        
 
 </template>
 
