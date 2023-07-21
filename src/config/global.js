@@ -155,7 +155,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/material.zip',
+        download: 'downloads/222319_CF18_DU.zip',
       },
       {
         icono: 'fas fa-download',
