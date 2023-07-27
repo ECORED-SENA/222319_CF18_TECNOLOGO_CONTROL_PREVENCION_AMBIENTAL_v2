@@ -8,10 +8,10 @@
       h1  Trámite de tasa retributiva 
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3(data-aos="fade-right")
-        p Es un cobro reglamentado por el Ministerio Ambiente, Vivienda y Desarrollo Territorial desde 1997 e implementado por la Autoridad Ambiental con el propósito de reducir la contaminación hídrica, al mínimo costo económico posible.
+        p Es un cobro reglamentado por el Ministerio Ambiente, Vivienda y Desarrollo Territorial desde 1997 e implementado por la autoridad ambiental con el propósito de reducir la contaminación hídrica, al mínimo costo económico posible.
           br
           br
-          |Estos son algunos aspectos que, sobre el trámite de tasa retributiva, usted debe deber presente: 
+          |Estos son algunos aspectos que, sobre el trámite de tasa retributiva, usted debe tener presente: 
       .col-lg-5.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/tema4/1.png', alt='')
     AcordionA.acordion-icon.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       div(titulo="Problemática de contaminación")

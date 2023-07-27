@@ -8,7 +8,7 @@
       h1 Informes de seguimiento y monitoreo de vertimientos  
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
-        p El monitoreo ambiental se hace después de que se establecen las medidas de manejo ambiental para el proyecto minero. Es un procedimiento válido para verificar la eficacia de la ejecución de dichas medidas. Para realizar el monitoreo se seleccionan indicadores específicos, por medio de los cuales se pueden identificar los cambios que está generando el proyecto. Los datos obtenidos en el monitoreo permiten reevaluar acciones con el fin de corregir, minimizar o mitigar las posibles afectaciones (Guía minero ambiental de explotación, s,f). 
+        p El monitoreo ambiental se hace después de que se establecen las medidas de manejo ambiental para el proyecto minero. Es un procedimiento válido para verificar la eficacia de la ejecución de dichas medidas. Para realizar el monitoreo se seleccionan indicadores específicos, por medio de los cuales se pueden identificar los cambios que está generando el proyecto. Los datos obtenidos en el monitoreo permiten reevaluar acciones con el fin de corregir, minimizar o mitigar las posibles afectaciones (Guía minero ambiental de explotación, s.f). 
           br
           br
           |Sobre los informes de seguimiento y monitoreo de vertimiento, tenga presente: 

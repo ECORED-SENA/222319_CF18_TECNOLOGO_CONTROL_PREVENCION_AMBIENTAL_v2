@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Construcción de sistema de tratamiento de agua residual 
+      h1 Construcción de un sistema de tratamiento de agua residual según requerimientos técnicos modelo 3D 
     p.mb-5(data-aos='fade-right')  Actualmente existen muchos modelos 3D para el desarrollo de planos y estructuras de ingeniería adecuados a las necesidades del diseñador. Uno de los más utilizados por sus prestaciones y practicidad es SKETCHUP. Para utilizar este programa basta con abrirlo y comenzar a dibujar, con las herramientas, la figura que se desee. Este programa es descargable o también se encuentra en versión online.
       br
       br

@@ -93,7 +93,7 @@
 
         li.d-flex
           i.fas.fa-check
-          p.mb-0 Que ocasionen altos riesgos para la salud o para los recursos hidrobiológicos. CAR. (s,f). 
+          p.mb-0 Que ocasionen altos riesgos para la salud o para los recursos hidrobiológicos.  (CAR,s.f.). 
     Separador 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.3 Sanciones 
@@ -126,7 +126,7 @@
               p.mb-0 Demolición de obra a costa del infractor. 
             li.d-flex
               i.fas.fa-check.fa-xs
-              p.mb-0 Trabajo comunitario según condiciones establecidas por la autoridad ambiental. Nota. CAR. (s,f).  
+              p.mb-0 Trabajo comunitario según condiciones establecidas por la autoridad ambiental. Nota. (CAR,s.f).  
     Separador 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.4 Documentos  

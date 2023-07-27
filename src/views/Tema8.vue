@@ -20,7 +20,7 @@
           p La información es un activo que, como otros activos importantes del negocio, tiene valor para la organización y requiere en consecuencia una protección adecuada. 
             br
             br
-            |La información adopta diversas formas: Puede estar impresa o escrita en papel, almacenada electrónicamente, transmitida por correo o por medios electrónicos, mostrada en video o hablada en conversación. Debería protegerse adecuadamente cualquiera que sea la forma que tome o los medios por los que se comparta o almacene (Normas ISO, s,f). 
+            |La información adopta diversas formas: Puede estar impresa o escrita en papel, almacenada electrónicamente, transmitida por correo o por medios electrónicos, mostrada en video o hablada en conversación. Debería protegerse adecuadamente cualquiera que sea la forma que tome o los medios por los que se comparta o almacene (Normas ISO, s.f). 
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
         .tarjeta.p-4(style="background-color: #fdf8e4").h-100
           img(src='@/assets/curso/temas/tema8/3.png', alt='' style="width: 170px").m-auto.mb-3
@@ -53,7 +53,7 @@
 
         li.d-flex
           i.fas.fa-check
-          p.mb-0 Implantación de un sistema de gestión de seguridad de la información según ISO 27001. (2005). http://www.digitaliapublishing.com.bdigital.sena.edu.co/visor/37729 
+          p.mb-0 Implantación de un sistema de gestión de seguridad de la información según ISO 27001. (2005). https://www.escuelaeuropeaexcelencia.com/2021/07/guia-practica-para-la-implementacion-de-los-requisitos-de-iso-27001/
 
         li.d-flex
           i.fas.fa-check

@@ -8,7 +8,7 @@
       h1 Informes de caracterización interpretación de resultados de análisis de aguas residuales y lodos
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right").mb-lg-0.mb-3
-        p Los informes de caracterización de aguas resiuales son emitidos por lo general por una empresa acreditada a nivel nacional por el IDEAM. Estas empresas cuentan con el respaldo a través de la certificación de esta entidad al haber estandarizado sus ensayos por cada parámetro de análisis y muestreo del agua residual.
+        p Los informes de caracterización de aguas residuales son emitidos por lo general por una empresa acreditada a nivel nacional por el IDEAM. Estas empresas cuentan con el respaldo a través de la certificación de esta entidad al haber estandarizado sus ensayos por cada parámetro de análisis y muestreo del agua residual.
           br
           br
           |En relación con los informes de caracterización, interpretación de resultados de análisis de aguas residuales y lodos, tenga presente los siguientes aspectos:
@@ -22,13 +22,13 @@
             img(src='@/assets/curso/temas/tema3/2.png', alt='')
       .row(titulo="Tener en cuenta ")
         .col-md-8.mb-4.mb-md-0
-          p En ambos casos, es importante realizar las mediciones de pH, temperatura, caudal y sólidos sedimentables en el campo, registrar esta información y comunicarla inmediatamente al industrial, el cual debe firmar el registro y realizar las observaciones que considere pertinentes. Las muestras que se llevan a los laboratorios para su análisis deben ser debidamente identificadas e incluidas en un protocolo de custodia, de acuerdo con los procedimientos establecidos por el IDEAM (Ministerio del Medio Ambiente. 2002)
+          p En ambos casos, es importante realizar las mediciones de pH, temperatura, caudal y sólidos sedimentables en el campo, registrar esta información y comunicarla inmediatamente al industrial, el cual debe firmar el registro y realizar las observaciones que considere pertinentes. Las muestras que se llevan a los laboratorios para su análisis deben ser debidamente identificadas e incluidas en un protocolo de custodia, de acuerdo con los procedimientos establecidos por el IDEAM (Ministerio del Medio Ambiente, 2002).
         .col-md-4
           figure
             img(src='@/assets/curso/temas/tema3/3.png', alt='')
       .row(titulo="Muestreos y corrientes receptoras ")
         .col-md-8.mb-4.mb-md-0
-          p El muestreo de las aguas residuales y las corrientes receptoras de vertimientos líquidos constituye uno de los aspectos fundamentales en todo programa que tenga como objetivo disminuir el grado de contaminación del recurso hídrico. Los resultados de un programa de muestreo son la base del diseño de los sistemas de tratamiento, la verificación del cumplimiento de la normatividad existente, el avance del programa de tasas retributivas y/o la implementación de un sistema de gestión ambiental. (CORNARE. 2018). 
+          p El muestreo de las aguas residuales y las corrientes receptoras de vertimientos líquidos constituye uno de los aspectos fundamentales en todo programa que tenga como objetivo disminuir el grado de contaminación del recurso hídrico. Los resultados de un programa de muestreo son la base del diseño de los sistemas de tratamiento, la verificación del cumplimiento de la normatividad existente, el avance del programa de tasas retributivas y/o la implementación de un sistema de gestión ambiental. (CORNARE, 2018). 
         .col-md-4
           figure
             img(src='@/assets/curso/temas/tema3/4.png', alt='')
@@ -40,13 +40,13 @@
             img(src='@/assets/curso/temas/tema3/5.png', alt='')
       .row(titulo="Sobre la caracterización ")
         .col-md-8.mb-4.mb-md-0
-          p La caracterización de vertimientos líquidos tiene como objeto evaluar las sustancias contaminantes que un proyecto o usuario determinado están vertiendo al recurso hídrico. Es importante que esta se realice con personal idóneo, que conoce el objeto, los requerimientos de muestreo, la medición de parámetros de campo y el análisis acertado de la información (CORNARE. 2018).  
+          p La caracterización de vertimientos líquidos tiene como objeto evaluar las sustancias contaminantes que un proyecto o usuario determinado están vertiendo al recurso hídrico. Es importante que esta se realice con personal idóneo, que conoce el objeto, los requerimientos de muestreo, la medición de parámetros de campo y el análisis acertado de la información (CORNARE, 2018).  
         .col-md-4
           figure
             img(src='@/assets/curso/temas/tema3/6.png', alt='')
       .row(titulo="Idoneidad del personal")
         .col-md-8.mb-4.mb-md-0
-          p Es recomendable que las personas contratadas para la realización de los muestreos sean idóneas, con perfil y experiencia sanitario o ambiental (Ingeniero (a) o Tecnólogo (a) en Saneamiento u otro perfil con la certificación respectiva (CORNARE. 2018).  
+          p Es recomendable que las personas contratadas para la realización de los muestreos sean idóneas, con perfil y experiencia sanitario o ambiental (Ingeniero (a) o Tecnólogo (a) en Saneamiento u otro perfil con la certificación respectiva (CORNARE, 2018).  
         .col-md-4
           figure
             img(src='@/assets/curso/temas/tema3/7.png', alt='')
@@ -154,7 +154,7 @@
         li.d-flex
           .lista-ol--cuadro__vineta
             span(style="color: #0E494D").fw-bold j
-          p.mb-0 Anexo en original de los datos y observaciones obtenidas en el trabajo de campo. (CORNARE. 2018). 
+          p.mb-0 Anexo en original de los datos y observaciones obtenidas en el trabajo de campo. (CORNARE, 2018). 
 </template>
 
 <script>
