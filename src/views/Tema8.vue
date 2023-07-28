@@ -52,8 +52,9 @@
           p.mb-0 #[b Gestión de riesgos:] es el proceso por el cual se evalúan los riesgos y se seleccionan y aplican los controles necesarios para mantener el nivel de riesgos a los niveles aceptados por la Dirección. 
 
         li.d-flex
-          i.fas.fa-check
-          p.mb-0 Implantación de un sistema de gestión de seguridad de la información según ISO 27001. (2005). https://www.escuelaeuropeaexcelencia.com/2021/07/guia-practica-para-la-implementacion-de-los-requisitos-de-iso-27001/
+          i.fas.fa-link
+          p.mb-0 Implantación de un sistema de gestión de seguridad de la información según ISO 27001. (2005). 
+            a.link(href='https://www.escuelaeuropeaexcelencia.com/2021/07/guia-practica-para-la-implementacion-de-los-requisitos-de-iso-27001/' target="_blank") https://www.escuelaeuropeaexcelencia.com/2021/07/guia-practica-para-la-implementacion-de-los-requisitos-de-iso-27001/
 
         li.d-flex
           i.fas.fa-check

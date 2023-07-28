@@ -195,14 +195,16 @@ export default {
     },
     {
       tema: 'Construcción de un sistema de tratamiento de agua residual',
-      referencia: 'Google SketchUp.  (s.f). <em>Manual Google SketchUp.</em>',
+      referencia:
+        'Google SketchUp.  (2014). <em>Manual Google SketchUp Pro.</em>',
       tipo: 'Manual  ',
       link:
         'http://www.tallertecno.com/sketchup/manual-rapido-google-sketchup-2014pro.pdf',
     },
     {
       tema: 'Construcción de un sistema de tratamiento de agua residual',
-      referencia: 'Sketchup. (2016). <em>Getting Started with SketchUp</em>',
+      referencia:
+        'Sketchup. (2016). <em>Getting Started with SketchUp. Part 1.</em>',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=pv7TrGnZ17w',
     },
